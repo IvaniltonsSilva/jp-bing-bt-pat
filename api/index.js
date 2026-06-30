@@ -28,7 +28,9 @@
 
     const shareCode = '&shareCode=QY3MR187GKA'
     
-    const afp = '&afp=jo'
+    const afp = '&afp=bingo'
+
+    const source = '&utm_medium=jo'
     
     const source = '&home=1'
 
